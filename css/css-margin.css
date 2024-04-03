@@ -1,0 +1,18 @@
+/*untuk set margin dalam sebuah elemen*/
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+/*ketika ada 2 border yang di tambahkan pada satu area maka akan di ambil border yang angkanya tertinggi saja*/
+h1 {
+    margin: 0 0 50px 0;
+    border: solid black 1px;
+  }
+  
+  h2 {
+    margin: 20px 0 0 0;
+    border: solid black 1px;
+  }

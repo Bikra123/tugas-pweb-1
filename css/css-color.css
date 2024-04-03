@@ -1,0 +1,7 @@
+p{
+    color: tomato;
+    color: rgb(255, 99, 71);
+    color: #ff6347;
+    color: hsl(9, 100%, 64%);
+}
+/*warna bisa menggunakan beberapa format seperti nama warna itu sendiri yang di sediakan css, rgb, hex code, dan hsl*/

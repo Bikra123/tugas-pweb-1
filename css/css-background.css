@@ -1,0 +1,24 @@
+/*background color untuk set warna background*/
+div{
+    background-color: aqua; 
+}
+
+/*background image untuk set background dengan gambar*/
+div{
+    background-image: url(blablabla);     
+}
+
+/*background repeat untuk mengatur arah perulangan gambar*/
+div{
+    background-repeat: repeat-x;
+}
+
+/*background attachment untuk menentukan bahwa background akan ikut di scroll atau tidak*/
+div{
+    background-attachment: fixed;
+}
+
+/*background shorthand berurutan warna gambar perulangan dan posisi*/
+div{
+    background: #ffffff url("img_tree.png") no-repeat right top;
+}
