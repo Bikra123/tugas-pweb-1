@@ -1,0 +1,8 @@
+p::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+  }/*membuat huruf pertama dari sebuah text menjadi merah dan besar*/
+p::first-line {
+    color: #ff0000;
+    font-size: xx-large;
+  }/*membuat baris pertama dari sebuah paragraf menjadi merah dan besar*/

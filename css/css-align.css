@@ -1,0 +1,16 @@
+.center {
+    text-align: center;/*mengatur text agar ke tengah*/
+    border: 3px solid green;
+  }
+.left {
+    text-align: left;/*mengatur text agar ke kiri*/
+    border: 3px solid green;
+  }
+.right {
+    text-align: right;/*mengatur text agar ke kanan*/
+    border: 3px solid green;
+  }
+.justify {
+    text-align: justify;/*mengatur text agar rata dari kiri ke kanan ketika ada beberapa baris*/
+    border: 3px solid green;
+  }

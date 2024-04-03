@@ -1,0 +1,35 @@
+img{
+    float: none;/*float tidak di set*/
+  }
+img{
+    float: right;/*float ke kanan*/
+}
+img{
+    float: left;/*float kekiri*/
+}
+img{
+    float: inherit;/*float sesuai nilai induk*/
+}
+
+.div1 {
+    float: left;
+    padding: 10px;
+    border: 3px solid #73AD21;
+  }
+  
+  .div2 {
+    padding: 10px;
+    border: 3px solid red;
+  }
+  
+  .div3 {
+    float: left;
+    padding: 10px;  
+    border: 3px solid #313926;
+  }
+  
+  .div4 {
+    padding: 10px;
+    border: 3px solid red;
+    clear: left;/*clear untuk mengclear float yang ada dikiri agar tidak menumpuk*/
+  }
