@@ -427,3 +427,28 @@ contoh const x = 5;
 
 JavaScript Data Types
 
+JavaScript memiliki 8 Tipe Data
+
+1. String
+2. Angka
+3. Bigint
+4. Boolean
+5. Tidak terdefinisi
+6. Null
+7. Simbol
+8. Objek
+
+Tipe Data Objek
+Tipe data objek dapat berisi:
+
+1. Sebuah Objek
+2. Sebuah Array
+3. Sebuah Tanggal
+
+contoh:
+
+![Tipe Data](/data-type.png)
+
+##JavaScript adalah bahasa pemrograman dinamis yang digunakan untuk menambahkan fungsionalitas interaktif ke halaman web. Javascript memungkinkan kita membuat elemen web yang dinamis dan responsif, seperti menu drop-down, animasi, game web, dan aplikasi web interaktif lainnya.
+
+##JavaScript dijalankan di sisi klien, yang berarti kode JS dieksekusi di browser web pengguna. Dengan begitu, kita dapat membuat perubahan real-time pada halaman web tanpa perlu memuat ulang halaman.
